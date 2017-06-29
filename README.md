@@ -21,3 +21,5 @@ and follow the instructions.
 
 The two demos can work together on your local machine for demonstration purpose.
 
+RESTful service invocation -
+https://github.com/aaronliruns/react-framework7/blob/master/popup.png
